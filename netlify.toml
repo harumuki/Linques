@@ -3,7 +3,7 @@
   to = "https://github.com/aritropaul/SFSymbolPicker"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
 
 
 [[redirects]]
@@ -11,32 +11,32 @@
   to = "https://github.com/aritropaul/WidgetKit-Example"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
 
 [[redirects]]
   from = "/widgetpost"
   to = "https://aritro.me/blog/2020/06/Writing-A-SwiftUI-Widget.html"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
 
 [[redirects]]
   from = "/valorant"
   to = "https://github.com/aritropaul/Valorant-Elo-Tracker"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
   
 [[redirects]]
   from = "/anime"
   to = "https://www.notion.so/aritropaul/Anime-4b5da20f604f404da3d19d6e82baedd1"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
 
 [[redirects]]
   from = "/bois"
   to = "https://umd.zoom.us/j/5035619879"
   status = 302
   force = true
-  headers = {X-From = "aritro.work"}
+  headers = {X-From = "thuylinhtran.com"}
