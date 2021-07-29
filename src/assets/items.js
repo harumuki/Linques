@@ -11,7 +11,7 @@ const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://aritro.xyz"
+    "link": "https://thuylinhtran.com"
 },
 {
     "title": "GitHub",
@@ -21,9 +21,9 @@ const items = [{
 },
 {
     "title": "Instagram",
-    "subtitle": "@not.a.coder",
+    "subtitle": "@thuylinhofficial",
     "image": instagram,
-    "link": "https://instagram.com/not.a.coder"
+    "link": "https://instagram.com/thuylinhofficial"
 },
 {
     "title": "Apps",
