@@ -1,5 +1,6 @@
 import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
+import googleplaystore from '../assets/playstore.png'
 import appstore from '../assets/appstore.png'
 import twitter from '../assets/twitter.png'
 import dribbble from '../assets/dribbble.png'
@@ -18,6 +19,12 @@ const items = [{
     "subtitle": "@aritropaul",
     "image": github,
     "link": "https://github.com/aritropaul"
+},
+{
+    "title": "Google Play Apps",
+    "subtitle": "My App Store Page!",
+    "image": appstore,
+    "link": "https://play.google.com/store/apps/details?id=com.thuylinh.tiepapp"
 },
 {
     "title": "Instagram",
